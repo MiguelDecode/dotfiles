@@ -1,3 +1,4 @@
+-- Set the colorscheme and options for the background transparent
 return {
   "folke/tokyonight.nvim",
   opts = {
