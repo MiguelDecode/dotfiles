@@ -4,7 +4,7 @@ return {
     enabled = true,
 
     -- Add delay before auto-save
-    debounce_delay = 5000,
+    debounce_delay = 1000,
 
     -- Add some conditions for save
     trigger_events = {
