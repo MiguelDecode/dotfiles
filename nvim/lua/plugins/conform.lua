@@ -3,16 +3,16 @@ return {
     "stevearc/conform.nvim",
     opts = {
       formatters_by_ft = {
-        javascript = { "prettier" },
-        javascriptreact = { "prettier" },
-        typescript = { "prettier" },
-        typescriptreact = { "prettier" },
-        astro = { "prettier" },
-        json = { "prettier" },
-        css = { "prettier" },
-        html = { "prettier" },
-        markdown = { "prettier" },
-        lua = { "stylua" },
+        -- javascript = { "prettier" },
+        -- javascriptreact = { "prettier" },
+        -- typescript = { "prettier" },
+        -- typescriptreact = { "prettier" },
+        -- astro = { "prettier" },
+        -- json = { "prettier" },
+        -- css = { "prettier" },
+        -- html = { "prettier" },
+        -- markdown = { "prettier" },
+        -- lua = { "stylua" },
       },
 
       format_on_save = {
